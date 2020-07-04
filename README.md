@@ -1,6 +1,6 @@
 # xyla
 
-Xylaphone App
+The Xylophone App
 
 ## Getting Started
 
